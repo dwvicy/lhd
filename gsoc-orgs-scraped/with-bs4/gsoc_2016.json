@@ -1,0 +1,714 @@
+[
+ {
+  "org name": "52\u00b0North Initiative for Geospatial Open Source Software GmbH",
+  "org desc": "52\u00b0North works on innovative ideas and technologies in geoinformatics"
+ },
+ {
+  "org name": "aimacode",
+  "org desc": "Code to accompany the book \"AI: A Modern Approach\""
+ },
+ {
+  "org name": "AOSSIE - The Australian National University's Open-Source Software Innovation and Education",
+  "org desc": "Research-Intensive Open-Source Projects at Australia's Leading University"
+ },
+ {
+  "org name": "Apache Software Foundation",
+  "org desc": "Providing open source software to the public free of charge"
+ },
+ {
+  "org name": "ArchC",
+  "org desc": "ArchC is an Architecture Description Language"
+ },
+ {
+  "org name": "ASCEND",
+  "org desc": "Equation-solving software for engineering system modelling"
+ },
+ {
+  "org name": "BeagleBoard.org",
+  "org desc": "open hardware physical computing community with Linux"
+ },
+ {
+  "org name": "Beam Community",
+  "org desc": "From distributed systems, to robust servers and language design on the Erlang VM"
+ },
+ {
+  "org name": "Berkman Center for Internet and Society",
+  "org desc": "An interdisciplinary university-wide research center focused on the Internet"
+ },
+ {
+  "org name": "BioJS",
+  "org desc": "BioJS is an open source project that visualizes biological data using JavaScript"
+ },
+ {
+  "org name": "Biomedical Informatics, Emory University",
+  "org desc": "Big Data for Healthcare and Biomedical Research"
+ },
+ {
+  "org name": "Blender Foundation",
+  "org desc": "We make a 100% free/open source 3D creation pipeline."
+ },
+ {
+  "org name": "Boston University / XIA",
+  "org desc": "Crowdsourcing the future Internet"
+ },
+ {
+  "org name": "BRL-CAD",
+  "org desc": "We develop solid modeling, CAD, CAM, & other computer-aided technologies (CAx)"
+ },
+ {
+  "org name": "BuildmLearn",
+  "org desc": "Building m-Learning applications"
+ },
+ {
+  "org name": "Canadian Centre for Computational Genomics (C3G) - Montreal node",
+  "org desc": "Analytical solutions for Next-Generation Sequencing data"
+ },
+ {
+  "org name": "Catrobat",
+  "org desc": "Our apps empower teens to visually create their own apps directly on their phone"
+ },
+ {
+  "org name": "cBioPortal for Cancer Genomics",
+  "org desc": "Open source software solutions of precision medicine for cancer patients"
+ },
+ {
+  "org name": "CCExtractor Development",
+  "org desc": "The de-facto standard tool for everything related to subtitles."
+ },
+ {
+  "org name": "Celluloid",
+  "org desc": "Painless multi-threaded multi-core programming for Ruby."
+ },
+ {
+  "org name": "Ceph",
+  "org desc": "The Future of Storage"
+ },
+ {
+  "org name": "CERN SFT",
+  "org desc": "The SFT is part of CERN (European Organization for Nuclear Research)."
+ },
+ {
+  "org name": "Chapel",
+  "org desc": "a Productive Parallel Programming Language"
+ },
+ {
+  "org name": "CiviCRM",
+  "org desc": "Contact relationship management for non-profits, NGOs and advocacy organizations"
+ },
+ {
+  "org name": "Classical Language Toolkit",
+  "org desc": "NLP for the ancient world"
+ },
+ {
+  "org name": "CloudCV",
+  "org desc": "CloudCV - Large Scale Distribution Vision algorithms as a Cloud Service"
+ },
+ {
+  "org name": "Computational Biology @ University of Nebraska-Lincoln",
+  "org desc": "Development of software technologies for biomedical research and applications."
+ },
+ {
+  "org name": "Computational Science and Engineering at TU Wien",
+  "org desc": "We bundle TU Wien's open source efforts in the area of science and engineering"
+ },
+ {
+  "org name": "Copyleft Games",
+  "org desc": "Tools, libraries, and engines to help in game development"
+ },
+ {
+  "org name": "coreboot",
+  "org desc": "fast and flexible Open Source firmware"
+ },
+ {
+  "org name": "CVXPY",
+  "org desc": "CVXPY is a Python-embedded modeling language for convex optimization problems."
+ },
+ {
+  "org name": "D Foundation",
+  "org desc": "The D Foundation leads development of the D Programming Language."
+ },
+ {
+  "org name": "dbpediaspotlight",
+  "org desc": "Information Extraction framework from Wikipedia, Wikidata & Commons"
+ },
+ {
+  "org name": "Debian Project",
+  "org desc": "The Universal Operating System"
+ },
+ {
+  "org name": "Discourse",
+  "org desc": "A next-generation discussion forum."
+ },
+ {
+  "org name": "Distributed and Unified Numerics Environment (DUNE)",
+  "org desc": "DUNE is a modular toolbox for solving PDEs with grid-based methods."
+ },
+ {
+  "org name": "Django Software Foundation",
+  "org desc": "The web framework for perfectionists with deadlines."
+ },
+ {
+  "org name": "Drupal",
+  "org desc": "Drupal is a Free, Open, Modular CMS written in PHP. Websites, databases, +more"
+ },
+ {
+  "org name": "Eclipse Foundation",
+  "org desc": "Eclipse is a community who collaborates on open source software."
+ },
+ {
+  "org name": "Fedora Project",
+  "org desc": "Lead the advance of Free/Open Source Software/Content as collaborative community"
+ },
+ {
+  "org name": "FFmpeg",
+  "org desc": "Cross-platform software to convert audio and video."
+ },
+ {
+  "org name": "FOSDEM VZW",
+  "org desc": "The organization that handles all aspects of the FOSDEM conference"
+ },
+ {
+  "org name": "FOSSASIA",
+  "org desc": "Open Technologies for Social Change"
+ },
+ {
+  "org name": "Free and Open Source Silicon Foundation",
+  "org desc": "Free and Open Source Digital Designs and their Ecosystem, EDA Tools and OpenRISC"
+ },
+ {
+  "org name": "FreeBSD",
+  "org desc": "FreeBSD: The Foundation of the Internet"
+ },
+ {
+  "org name": "Freifunk",
+  "org desc": "Freifunk is a non-commercial initiative for free and open wireless networks."
+ },
+ {
+  "org name": "Gambit - Software Tools for Game Theory",
+  "org desc": "Software for Analysis of Game Theory Models"
+ },
+ {
+  "org name": "Ganeti",
+  "org desc": "Cluster virtual server management software"
+ },
+ {
+  "org name": "Genes, Genomes and Variation",
+  "org desc": "Ensembl Genome Browsers"
+ },
+ {
+  "org name": "Gentoo Foundation",
+  "org desc": "A flexible, source-based Linux distribution."
+ },
+ {
+  "org name": "Git",
+  "org desc": "fast, scalable, distributed revision control system"
+ },
+ {
+  "org name": "GitHub",
+  "org desc": "How people build software"
+ },
+ {
+  "org name": "Global Alliance for Genomics & Health",
+  "org desc": "GA4GH develops open standards and tools for genomics to benefit human health"
+ },
+ {
+  "org name": "GNOME",
+  "org desc": "Ease, comfort and control"
+ },
+ {
+  "org name": "gnss-sdr",
+  "org desc": "GNSS-SDR is an open source Global Navigation Satellite Systems software receiver"
+ },
+ {
+  "org name": "GNU Mailman",
+  "org desc": "Mailman is free software for managing electronic mailing lists."
+ },
+ {
+  "org name": "GNU Octave",
+  "org desc": "GNU Octave : Free Your Numbers."
+ },
+ {
+  "org name": "GNU Project",
+  "org desc": "The GNU Operating System"
+ },
+ {
+  "org name": "GNU Radio",
+  "org desc": "The Free and Open Software Radio Ecosystem"
+ },
+ {
+  "org name": "GPAC",
+  "org desc": "GPAC - Multimedia Open-Source Project"
+ },
+ {
+  "org name": "Green Navigation",
+  "org desc": "Routing Service for finding the shortest, fastest and most energy efficient way."
+ },
+ {
+  "org name": "gRPC",
+  "org desc": "A high performance, open source, general RPC framework."
+ },
+ {
+  "org name": "Health Information Systems Programme",
+  "org desc": "Health information system which is being used by 47 countries across world."
+ },
+ {
+  "org name": "Homebrew",
+  "org desc": "Package management software for OS X."
+ },
+ {
+  "org name": "Inclusive Design Institute",
+  "org desc": "The IDI addresses the challenge of designing ICT to work for all potential users"
+ },
+ {
+  "org name": "Indic Project",
+  "org desc": "Improving Information Infrastructure and Access to Knowledge in Indian languages"
+ },
+ {
+  "org name": "Inkscape",
+  "org desc": "Inkscape is a professional vector graphics editor for Windows, OS X, and Linux."
+ },
+ {
+  "org name": "International Neuroinformatics Coordinating Facility",
+  "org desc": "Advancing global collaborative brain research"
+ },
+ {
+  "org name": "Java Pathfinder Team",
+  "org desc": "JPF is a highly extensible Java virtual machine built for sofware verification"
+ },
+ {
+  "org name": "JBoss Community",
+  "org desc": "Community of Java projects around JBoss Middleware"
+ },
+ {
+  "org name": "Jenkins Project",
+  "org desc": "Jenkins is an open-source automation server"
+ },
+ {
+  "org name": "Joomla!",
+  "org desc": "A Free and Open Source CMS, Trusted By Millions for their Websites"
+ },
+ {
+  "org name": "jQuery Foundation",
+  "org desc": "jQuery Foundation - home of jQuery, Dojo and many other JavaScript libraries"
+ },
+ {
+  "org name": "JSK Robotics Laboratory",
+  "org desc": "JSK Robotics Laboratory / The University of Tokyo"
+ },
+ {
+  "org name": "KDE",
+  "org desc": "KDE is an international technology team that creates user-friendly software"
+ },
+ {
+  "org name": "KolibriOS",
+  "org desc": "KolibriOS Project team"
+ },
+ {
+  "org name": "LabLua",
+  "org desc": "LabLua - Lua programming language research lab at PUC-Rio"
+ },
+ {
+  "org name": "LibreOffice",
+  "org desc": "LibreOffice is a powerful cross-platform office suite."
+ },
+ {
+  "org name": "Libvirt",
+  "org desc": "Stable API for easier virtualization."
+ },
+ {
+  "org name": "Liquid Galaxy Project",
+  "org desc": "Liquid Galaxy Project: wraparound open-source immersion!"
+ },
+ {
+  "org name": "lowRISC",
+  "org desc": "Creating a fully open-source SoC design"
+ },
+ {
+  "org name": "MariaDB",
+  "org desc": "One of the most popular databases on the web with many notable users"
+ },
+ {
+  "org name": "Matrix.org",
+  "org desc": "An ambitious opensource project creating a new, decentralised comms ecosystem."
+ },
+ {
+  "org name": "MBDyn, Department of Aerospace Science and Technology at Politecnico di Milano",
+  "org desc": "MBDyn is a multidisciplinary Multibody Dynamics scientific simulation software."
+ },
+ {
+  "org name": "McGill Space Institute",
+  "org desc": "Center bringing together scientists doing space-related research at McGill"
+ },
+ {
+  "org name": "MetaBrainz Foundation",
+  "org desc": "We curate data and make it freely available!"
+ },
+ {
+  "org name": "Mifos Initiative",
+  "org desc": "End Poverty One Line of Code at a Time"
+ },
+ {
+  "org name": "MIT Media Lab",
+  "org desc": "Build Your own Android Apps!"
+ },
+ {
+  "org name": "Mixxx DJ Software",
+  "org desc": "DJ Your Way, For Free. Join our friendly community of hackers, DJs, and artists!"
+ },
+ {
+  "org name": "mlpack: a scalable C++ machine learning library",
+  "org desc": "a scalable C++ machine learning library"
+ },
+ {
+  "org name": "Mobile Robot Programming Toolkit (MRPT)",
+  "org desc": "Mobile Robot Programming Toolkit: empowering C++ development in robotics"
+ },
+ {
+  "org name": "ModSecurity",
+  "org desc": "ModSecurity cross platform web application firewall"
+ },
+ {
+  "org name": "Moodle",
+  "org desc": "The world's open source learning platform"
+ },
+ {
+  "org name": "MovingBlocks",
+  "org desc": "Terasology: like an open source Minecraft - imagine the possibilities!"
+ },
+ {
+  "org name": "Mozilla",
+  "org desc": "We're building a better Internet"
+ },
+ {
+  "org name": "MuseScore",
+  "org desc": "MuseScore: Create, play and print beautiful sheet music"
+ },
+ {
+  "org name": "National Resource for Network Biology (NRNB)",
+  "org desc": "Developing open source software to enable network-based biomedical discovery"
+ },
+ {
+  "org name": "Netfilter project",
+  "org desc": "Netfilter project"
+ },
+ {
+  "org name": "Nmap Security Scanner",
+  "org desc": "Swiss Army knife of network discovery and security auditing"
+ },
+ {
+  "org name": "NumFOCUS",
+  "org desc": "NumFOCUS promotes open source scientific software."
+ },
+ {
+  "org name": "Open Bioinformatics Foundation",
+  "org desc": "Supporting OSS and Open Science in the biological research community."
+ },
+ {
+  "org name": "Open Chemistry",
+  "org desc": "Open source chemistry software libraries and tools"
+ },
+ {
+  "org name": "Open Detection",
+  "org desc": "Open Detection is a open source project for object detection and recognition."
+ },
+ {
+  "org name": "Open Ephys",
+  "org desc": "Open-source electrophysiology"
+ },
+ {
+  "org name": "Open Genome Informatics",
+  "org desc": "Open Genome Informatics represents the efforts of many bioinformatics projects."
+ },
+ {
+  "org name": "Open Source Robotics Foundation",
+  "org desc": "Open source software for use in robotics research, education, and industry."
+ },
+ {
+  "org name": "OpenAstronomy",
+  "org desc": "Confederation of open source projects in Astronomy"
+ },
+ {
+  "org name": "OpenCV",
+  "org desc": "Open Source Computer Vision and Machine Learning Library"
+ },
+ {
+  "org name": "OpenKeychain (OpenPGP for Android)",
+  "org desc": "OpenKeychain: Easy PGP for Android"
+ },
+ {
+  "org name": "OpenMRS",
+  "org desc": "Write code. Save lives."
+ },
+ {
+  "org name": "OpenStreetMap",
+  "org desc": "OpenStreetMap - Creating and distributing free geographic data for the world."
+ },
+ {
+  "org name": "openSUSE",
+  "org desc": "openSUSE Linux - The makers' choice for sysadmins, developers and desktop users"
+ },
+ {
+  "org name": "Oppia Foundation",
+  "org desc": "Oppia is used for collaboratively building interactive and intelligent tutors."
+ },
+ {
+  "org name": "Orange \u2013 Data Mining Fruitful & Fun",
+  "org desc": "A cross-platform, visual-programming tool for data mining and visualization."
+ },
+ {
+  "org name": "OSGeo - The Open Source Geospatial Foundation",
+  "org desc": "The Open Source Geospatial Foundation"
+ },
+ {
+  "org name": "OSU Open Source Lab",
+  "org desc": "OSU Open Source Lab"
+ },
+ {
+  "org name": "OWASP Foundation",
+  "org desc": "OWASP, The Open Web Application Security Project."
+ },
+ {
+  "org name": "ownCloud",
+  "org desc": "A safe home for all your data"
+ },
+ {
+  "org name": "P2PSP.org",
+  "org desc": "Shaping the future Internet TV"
+ },
+ {
+  "org name": "Peragro",
+  "org desc": "Digital Assets Managed Neatly"
+ },
+ {
+  "org name": "Performance Co-Pilot",
+  "org desc": "Performance Co-Pilot - system-level performance analysis toolkit"
+ },
+ {
+  "org name": "Physical Web Project",
+  "org desc": "The Physical Web Project develops use cases around Google's the Physical Web IoT"
+ },
+ {
+  "org name": "PLASMA-UMass",
+  "org desc": "PLASMA explores ways to make programming languages faster, safer, and easier."
+ },
+ {
+  "org name": "Plone Foundation",
+  "org desc": "The premier python-based content management system"
+ },
+ {
+  "org name": "Portland State University",
+  "org desc": "Portland State University"
+ },
+ {
+  "org name": "PRISM Model Checker",
+  "org desc": "PRISM is a tool for formally verifying the correctness of probabilistic systems."
+ },
+ {
+  "org name": "Public Lab",
+  "org desc": "Open hardware and software to help communities measure and analyze pollution"
+ },
+ {
+  "org name": "Python Software Foundation",
+  "org desc": "Python is programming language popular among scientists and more."
+ },
+ {
+  "org name": "QEMU",
+  "org desc": "Open source machine emulator and virtualizer"
+ },
+ {
+  "org name": "R project for statistical computing",
+  "org desc": "R is a free software environment for statistical computing and graphics"
+ },
+ {
+  "org name": "radare",
+  "org desc": "radare is a reverse engineering framework and toolset"
+ },
+ {
+  "org name": "ReactOS",
+  "org desc": "ReactOS is a free, open source, Windows compatible operating system."
+ },
+ {
+  "org name": "Red Hen Lab",
+  "org desc": "Red Hen Lab: Research on Multimodal Communication"
+ },
+ {
+  "org name": "Robocomp",
+  "org desc": "A framework for creating and modifying software components for robotics."
+ },
+ {
+  "org name": "RTEMS Project",
+  "org desc": "Open Source Deterministic Real-Time Operating System for Embedded Systems"
+ },
+ {
+  "org name": "Ruby",
+  "org desc": "The Ruby programming language, libraries, and tools"
+ },
+ {
+  "org name": "Ruby Science Foundation",
+  "org desc": "Tools for Scientific Computing in Ruby"
+ },
+ {
+  "org name": "Sage Mathematical Software System",
+  "org desc": "open-source mathematical software system"
+ },
+ {
+  "org name": "Scala",
+  "org desc": "The programming language where object-oriented meets functional."
+ },
+ {
+  "org name": "Scilab Enterprises",
+  "org desc": "Numerical computation IDE for engineering and scientific applications"
+ },
+ {
+  "org name": "ScummVM",
+  "org desc": "ScummVM is a GSoC umbrella for game preservation projects"
+ },
+ {
+  "org name": "Shogun Machine Learning Toolbox",
+  "org desc": "Unified and efficient Machine Learning."
+ },
+ {
+  "org name": "Sigmah",
+  "org desc": "Open source information management software for international aid projects"
+ },
+ {
+  "org name": "Soletta Project",
+  "org desc": "Soletta Project is an open source framework for making IoT applications"
+ },
+ {
+  "org name": "Stony Brook University Biomedical Informatics",
+  "org desc": "Biomedical Informatics at Stony Brook University"
+ },
+ {
+  "org name": "strace",
+  "org desc": "linux syscall tracer"
+ },
+ {
+  "org name": "Sugar Labs",
+  "org desc": "Learning software for children"
+ },
+ {
+  "org name": "Sustainable Computing Research Group ( SCoRe )",
+  "org desc": "SCoRe has conducted research covering various aspects of Security, Mobile & IOT."
+ },
+ {
+  "org name": "SymPy",
+  "org desc": "Computer algebra system in Python"
+ },
+ {
+  "org name": "Systers, an Anita Borg Institute Community",
+  "org desc": "Increasing the number of women in computing fields and technology."
+ },
+ {
+  "org name": "TARDIS-SN",
+  "org desc": "Unravelling Cosmic Explosions in Style"
+ },
+ {
+  "org name": "TEAMMATES @ National University of Singapore",
+  "org desc": "An online feedback management system for education"
+ },
+ {
+  "org name": "The Apertium Project",
+  "org desc": "A free/open-source rule-based machine translation platform"
+ },
+ {
+  "org name": "The Center for Connected Learning and Computer-Based Modeling",
+  "org desc": "NetLogo: A language and IDE for programming and scientific simulations"
+ },
+ {
+  "org name": "The Honeynet Project",
+  "org desc": "The Honeynet Project - R&D for honeypot/honeynet technolgy and infosec research"
+ },
+ {
+  "org name": "The Julia Language",
+  "org desc": "The Julia Language"
+ },
+ {
+  "org name": "The Linux Foundation",
+  "org desc": "A non-profit consortium dedicated to fostering the growth of Linux"
+ },
+ {
+  "org name": "The LLVM Compiler Infrastructure",
+  "org desc": "The LLVM Compiler Infrastructure"
+ },
+ {
+  "org name": "The Monarch Initiative",
+  "org desc": "An informatics platform for translational disease research"
+ },
+ {
+  "org name": "The NetBSD Foundation",
+  "org desc": "of course it runs NetBSD"
+ },
+ {
+  "org name": "The STE||AR Group",
+  "org desc": "The STE||AR Group - Shaping a Scalable Future"
+ },
+ {
+  "org name": "The syslog-ng project",
+  "org desc": "Open source log management solution with over a million users worldwide."
+ },
+ {
+  "org name": "The Tor Project",
+  "org desc": "Anonymity, privacy, and anti-censorship software"
+ },
+ {
+  "org name": "The Wine Project",
+  "org desc": "Wine runs Windows applications on Linux, BSD, Solaris and Mac OS X."
+ },
+ {
+  "org name": "Timelab Technologies Ltd.",
+  "org desc": "We help scientists understanding information in time-series"
+ },
+ {
+  "org name": "TimVideos.us",
+  "org desc": "TimVideos.us - FOSS event recording & streaming software and hardware."
+ },
+ {
+  "org name": "Unitex/GramLab",
+  "org desc": "Unitex/GramLab is an open source, multilingual corpus processing suite"
+ },
+ {
+  "org name": "Urban Energy Systems Laboratory, Empa",
+  "org desc": "HUES is a platform for modeling & simulation of decentralized energy systems"
+ },
+ {
+  "org name": "Vert.x",
+  "org desc": "Vert.x is a tool-kit for building reactive applications on the JVM."
+ },
+ {
+  "org name": "VideoLAN / VLMC Project",
+  "org desc": "A non-linear video editor, based on VLC technology."
+ },
+ {
+  "org name": "vitrivr",
+  "org desc": "vitrivr allows you to use novel methods to search in videos"
+ },
+ {
+  "org name": "Wayland",
+  "org desc": "Wayland is a protocol for windowing systems on both desktops and embedded"
+ },
+ {
+  "org name": "Wikimedia Foundation",
+  "org desc": "A global movement with a mission to bring free educational content to the world"
+ },
+ {
+  "org name": "WSO2",
+  "org desc": "Open Source Middleware Platform"
+ },
+ {
+  "org name": "X.Org Foundation",
+  "org desc": "X Window System and related projects (Mesa, DRI, Wayland, etc.)"
+ },
+ {
+  "org name": "Xapian Search Engine Library",
+  "org desc": "Fast, scalable and flexible search"
+ },
+ {
+  "org name": "XWiki",
+  "org desc": "Generic web platform for developing collaborative apps on the wiki paradigm"
+ },
+ {
+  "org name": "Zulip Open Source Project",
+  "org desc": "Zulip: Powerful open source group chat"
+ }
+]

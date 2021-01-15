@@ -6,10 +6,6 @@ import pprint
 chrome_driver_path = '/Users/dwvicy/DevTools/chromedriver'
 driver = webdriver.Chrome(executable_path=chrome_driver_path)
 
-# take input from user
-# yeor = input(
-#     "What year of GSOC are you insterested in since 2016 to 2020?(YYYY): ")
-# tipe = input("Do you want orgs or projects?")
 
 driver.get('https://summerofcode.withgoogle.com/archive/2020/organizations/')
 
